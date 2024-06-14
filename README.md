@@ -19,3 +19,7 @@ The House Price Prediction app is a web application that allows users to input v
 * User-friendly web interface built with Streamlit.
 * Input parameters include Construction status, RERA status, BHK No. , Square Feet, Readiness to move, Resale Status, Longitude, Latitude, Posted by, Type of house (BHK or RK), and City.
 * Predicts the house price based on the input parameters by using ML Model
+
+# Installation
+## 1.Clone the repository:
+git clone https://github.com/Prasadayus/House-Price-Prediction.git
