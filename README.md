@@ -44,4 +44,20 @@ streamlit run House_pred.py
 ```
 ### 2.Open your web browser and go to *http://localhost:8501* to use the app.
 
+# Data
+The dataset is 'House Price Prediction Challenge.csv' file in this repo
+The dataset used for training the model contains the following columns:
+
+* POSTED_BY: The person who posted the listing (Owner, Dealer, Builder).
+* UNDER_CONSTRUCTION: Whether the house is under construction (0 or 1).
+* RERA: RERA status (0 or 1).
+* BHK_NO.: Number of bedrooms.
+* BHK_OR_RK: Type of house (BHK or RK).
+* SQUARE_FT: Square footage of the house.
+* READY_TO_MOVE: Whether the house is ready to move in (0 or 1).
+* RESALE: Whether the house is a resale property (0 or 1).
+* ADDRESS: Address of the house.
+* LONGITUDE: Longitude of the house location.
+* LATITUDE: Latitude of the house location.
+* TARGET(PRICE_IN_LACS): Price of the house in lakhs.
 
