@@ -14,3 +14,8 @@ This repository contains the code for a House Price Prediction application built
 
 # Introduction
 The House Price Prediction app is a web application that allows users to input various parameters related to a house and predicts its price using a trained machine learning model. The app uses Gradient Boosting Regressor, which was selected after trying multiple models to achieve the best performance.
+
+# Features
+* User-friendly web interface built with Streamlit.
+* Input parameters include Construction status, RERA status, BHK No. , Square Feet, Readiness to move, Resale Status, Longitude, Latitude, Posted by, Type of house (BHK or RK), and City.
+* Predicts the house price based on the input parameters by using ML Model
