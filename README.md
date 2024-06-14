@@ -22,21 +22,26 @@ The House Price Prediction app is a web application that allows users to input v
 
 # Installation
 ### 1.Clone the repository:
-''' 
+```
 git clone https://github.com/Prasadayus/House-Price-Prediction.git 
-'''
+```
 
 ### 2.Create and activate a virtual environment:
+```
 python -m venv myenv
-source myenv/bin/activate 
+source myenv/bin/activate
+```
 
 ### 3.Install the required packages:
+```
 pip install -r requirements.txt
+```
 
 # Usage
 ### 1.Run the Streamlit app:
+```
 streamlit run House_pred.py
-
+```
 ### 2.Open your web browser and go to *http://localhost:8501* to use the app.
 
 
