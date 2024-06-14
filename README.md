@@ -35,6 +35,6 @@ pip install -r requirements.txt
 ### 1.Run the Streamlit app:
 streamlit run House_pred.py
 
-### 2.Open your web browser and go to * http://localhost:8501 * to use the app.
+### 2.Open your web browser and go to *http://localhost:8501* to use the app.
 
 
