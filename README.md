@@ -22,7 +22,9 @@ The House Price Prediction app is a web application that allows users to input v
 
 # Installation
 ### 1.Clone the repository:
-''' git clone https://github.com/Prasadayus/House-Price-Prediction.git '''
+''' 
+git clone https://github.com/Prasadayus/House-Price-Prediction.git 
+'''
 
 ### 2.Create and activate a virtual environment:
 python -m venv myenv
