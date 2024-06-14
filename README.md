@@ -1,5 +1,7 @@
 # House-Price-Prediction
 This repository contains the code for a House Price Prediction application built using Streamlit. The app predicts house prices based on various input parameters provided by the user.
+![Screenshot 2024-06-15 000322](https://github.com/Prasadayus/House-Price-Prediction/assets/129419372/c177a21f-d7b7-4739-89ae-bd44ef46dc9c)
+![Screenshot 2024-06-15 000322](https://github.com/Prasadayus/House-Price-Prediction/assets/129419372/c177a21f-d7b7-4739-89ae-bd44ef46dc9c)
 
 # Table of Contents
 * Introduction
