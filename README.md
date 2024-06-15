@@ -65,3 +65,13 @@ The dataset used for training the model contains the following columns:
 * LATITUDE: Latitude of the house location.
 * TARGET(PRICE_IN_LACS): Price of the house in lakhs.
 
+# File Descriptions
+
+* `House_pred.py`: Main script to run the Streamlit app.
+* `House_pred.ipynb`: Jupyter notebook for machine learning model training and evaluation.
+* `label_house_encoder.pkl`: Pickle file containing the LabelEncoder for categorical variables.
+* `gbr_house_model.pkl`: Pickle file containing the trained Gradient Boosting Regressor model.
+* `requirements.txt`: List of required packages for the project.
+
+# Contributing
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
